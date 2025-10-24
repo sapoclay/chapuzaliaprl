@@ -2,24 +2,24 @@
 
 Este es un pequeño juego para la terminal educativo. Se trata de una aventura de texto sobre llamada Chapuzalia -PRL en entornos informáticos.
 
-## 📋 Descripción
+## Descripción
 
 Aventura interactiva basada en la **Ley 31/1995 de PRL de España** donde eres un Técnico de Prevención de Riesgos Laborales en una empresa de desarrollo de software. Tus decisiones afectarán la seguridad de 50 trabajadores.
 
-## 🎯 Características
+## Características
 
-- ✅ **12 Capítulos interactivos** con múltiples decisiones
-- 🎮 **Sistema de puntuación** (puntos positivos y negativos)
-- 📊 **Estadísticas en tiempo real** (riesgos detectados, situaciones críticas resueltas)
-- 🏆 **Múltiples finales** según tu desempeño
-- 📚 **Basado en normativa real** española de PRL
-- 🎨 **Interfaz colorida** en terminal
-- 💾 **Guardado automático** de puntuaciones en JSON
-- 🏅 **Ranking de mejores inspectores**
-- 📈 **Estadísticas globales** de todas las partidas
-- 📜 **Créditos con arte ASCII**
+-  **12 Capítulos interactivos** con múltiples decisiones
+-  **Sistema de puntuación** (puntos positivos y negativos)
+-  **Estadísticas en tiempo real** (riesgos detectados, situaciones críticas resueltas)
+-  **Múltiples finales** según tu desempeño
+-  **Basado en normativa real** española de PRL
+-  **Interfaz colorida** en terminal
+-  **Guardado automático** de puntuaciones en JSON
+-  **Ranking de mejores inspectores**
+-  **Estadísticas globales** de todas las partidas
+-  **Créditos con arte ASCII**
 
-## 🗂️ Estructura Modular
+## Estructura Modular
 
 El proyecto está organizado en módulos por funcionalidad:
 
@@ -35,7 +35,7 @@ JUEGOPRL/
 └── README.md         # Este archivo
 ```
 
-### 📄 Módulos
+###  Módulos
 
 #### `main.py`
 - Clase principal `JuegoPRL`
@@ -103,7 +103,7 @@ Archivo JSON generado automáticamente con el historial:
 ]
 ```
 
-## 🚀 Cómo Jugar
+##  Cómo Jugar
 
 ```bash
 python3 main.py
@@ -216,16 +216,16 @@ MENÚ PRINCIPAL
 - **RD 486/1997**: Lugares de trabajo (temperatura, iluminación)
 - **RD 488/1997**: Pantallas de visualización
 
-## 🛠️ Requisitos
+##  Requisitos
 
 - Python 3.6+
 - Terminal con soporte de colores ANSI
 
-## 📝 Licencia
+##  Licencia
 
 Proyecto educativo sobre Prevención de Riesgos Laborales.
 
-## 👨‍💻 Autor
+##  Autor
 
 entreunosyceros
 
