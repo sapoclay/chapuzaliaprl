@@ -1,6 +1,6 @@
 # 🛡️ ChapuzaliaPRL
 
-Este es un pequeño juego para la terminal educativo. Se trata de una aventura de texto sobre llamada Chapuzalia - PRL en entornos informáticos.
+Este es un pequeño juego para la terminal educativo. Se trata de una aventura de texto sobre llamada Chapuzalia -PRL en entornos informáticos.
 
 ## 📋 Descripción
 
@@ -119,8 +119,8 @@ MENÚ PRINCIPAL
 1. 🎮 Jugar nueva partida
 2. 🏆 Ver ranking de puntuaciones
 3. 📊 Ver estadísticas globales
-4. � Ver créditos
-5. �🚪 Salir
+4. Ver créditos
+5. Salir
 ```
 
 ### Opciones
