@@ -1,5 +1,7 @@
 # 🛡️ ChapuzaliaPRL
 
+<img width="1024" height="1024" alt="PRL-logo" src="https://github.com/user-attachments/assets/e733cfb2-d518-4caa-8c79-9f641e05a59d" />
+
 Este es un pequeño juego para la terminal educativo. Se trata de una aventura de texto sobre llamada Chapuzalia -PRL en entornos informáticos.
 
 ## Descripción
