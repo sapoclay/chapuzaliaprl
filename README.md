@@ -10,6 +10,8 @@ Aventura interactiva basada en la **Ley 31/1995 de PRL de España** donde eres u
 
 ## Características
 
+![PRL](https://github.com/user-attachments/assets/4aa76821-41f0-4fe5-840e-d1a829b2f36a)
+
 -  **12 Capítulos interactivos** con múltiples decisiones
 -  **Sistema de puntuación** (puntos positivos y negativos)
 -  **Estadísticas en tiempo real** (riesgos detectados, situaciones críticas resueltas)
